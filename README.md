@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **DermScan Mobile Application**
 
-- 🌱 I’m currently learning **React, Node.js, Python, Data science, Machine Learning,**
-
-- 💬 Ask me about **Html, JavaScript, React,**
+- 🌱 I’m currently learning **React, Node.js, Python, Playwright, Data science, Machine Learning,**
 
 - 📫 How to reach me **nimnadinw@gmail.com**
 
