@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nimasha Nimnadi</h1>
 <h3 align="center">Motivated Undergraduate</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nimasha-Nimnadi" alt="Nimasha-Nimnadi" /></a> </p>
-
 - 🔭 I’m currently working on **DermScan Mobile Application**
 
 - 🌱 I’m currently learning **React, Node.js, Python, Data science, Machine Learning,**
