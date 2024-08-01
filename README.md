@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimasha Nimnadi</h1>
 <h3 align="center">Motivated Individual</h3>
 
-- 🌱 Learner ** Playwright, RestAssured, React, Node.js, Python, Java **
+- 🌱 Learner **Playwright, RestAssured, React, Node.js, Python, Java**
 
 - 🔍 I'm interested in Data science, Artificial Intelligence, Machine Learning
 
