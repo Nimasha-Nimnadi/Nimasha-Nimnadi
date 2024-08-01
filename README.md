@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimasha Nimnadi</h1>
 <h3 align="center">Motivated Individual</h3>
 
-- 🔭 I’m currently working on **DermScan Mobile Application**
-
-- 🌱 I’m currently learning **React, Node.js, Python, Playwright**
+- 🌱 Learner **Playwright, RestAssured, React, Node.js, Python, Java **
 
 - 🔍 I'm interested in Data science, Artificial Intelligence, Machine Learning
 
