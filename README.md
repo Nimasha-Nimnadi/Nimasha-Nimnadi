@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **nimnadinw@gmail.com**
 
-- ⚡ Fun fact **I think i can make you laugh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
